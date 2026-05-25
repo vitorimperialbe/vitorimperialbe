@@ -1,4 +1,4 @@
-# Olá, eu sou o Vitor! 👋🌎
+# Olá, eu sou o Vitor! 👋 🌎
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E6DA4&width=435&lines=Estudante+de+ADS+na+FATEC+Ipiranga;Desenvolvedor+em+formação;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
 
@@ -25,6 +25,7 @@
 
 ### Ferramentas & Tecnologias
 <div>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -42,8 +43,12 @@
 > **Stack:** Java • Android • Frontend Web • Docker • GitHub Actions (CI/CD)  
 > 🔒 Repositório privado (projeto acadêmico em andamento)
 
-### ♟️ [Jogo da Velha em Java](https://github.com/vitorimperialbe/aulas-e-provas)
-> Implementação do clássico Jogo da Velha com lógica de jogo, validação de jogadas e testes.  
+### 🌐 [Todo API — REST com Spring Boot](https://github.com/vitorimperialbe/todo-api)
+> API REST completa para gerenciamento de tarefas com arquitetura em camadas.  
+> **Stack:** Java • Spring Boot • Maven
+
+### ♟️ [Gerenciador de Tarefas — Java](https://github.com/vitorimperialbe/todo-java)
+> Sistema CRUD com menu interativo no terminal, aplicando POO e arquitetura em camadas.  
 > **Stack:** Java • POO
 
 ### 📚 [Estrutura de Dados 2025](https://github.com/vitorimperialbe/estrutura-dados-2025)
