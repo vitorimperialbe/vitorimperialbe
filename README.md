@@ -43,10 +43,6 @@
 > **Stack:** Java • Android • Frontend Web • Docker • GitHub Actions (CI/CD)  
 > 🔒 Repositório privado (projeto acadêmico em andamento)
 
-### 🌐 [Todo API — REST com Spring Boot](https://github.com/vitorimperialbe/todo-api)
-> API REST completa para gerenciamento de tarefas com arquitetura em camadas.  
-> **Stack:** Java • Spring Boot • Maven
-
 ### ♟️ [Gerenciador de Tarefas — Java](https://github.com/vitorimperialbe/todo-java)
 > Sistema CRUD com menu interativo no terminal, aplicando POO e arquitetura em camadas.  
 > **Stack:** Java • POO
