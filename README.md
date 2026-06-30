@@ -7,7 +7,7 @@
 🎓 Cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga  
 🏫 Técnico em ADS formado pela **ETEC de Heliópolis** (2024)  
 🚀 Buscando minha primeira oportunidade como **Desenvolvedor de Software**  
-💡 Atualmente desenvolvendo um sistema completo para UBS com Java, Android e Docker
+💡 Atualmente desenvolvendo um sistema completo para UBS com Java e Docker
 
 ---
 
