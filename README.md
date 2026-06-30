@@ -40,7 +40,7 @@
 
 ### 🏥 Sistema para UBS — Projeto Integrador FATEC
 > Sistema completo para digitalizar o controle de planilhas médicas em Unidade Básica de Saúde.  
-> **Stack:** Java • Android • Frontend Web • Docker • GitHub Actions (CI/CD)  
+> **Stack:** Java •  Frontend Web • Docker • GitHub Actions (CI/CD)  
 > 🔒 Repositório privado (projeto acadêmico em andamento)
 
 ### ♟️ [Gerenciador de Tarefas — Java](https://github.com/vitorimperialbe/todo-java)
