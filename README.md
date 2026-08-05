@@ -50,6 +50,10 @@
 > Exercícios e implementações de Listas Ligadas, Filas, Árvores Binárias e mais.  
 > **Stack:** Java
 
+🧾 **Processador de Notas Fiscais — App Web com IA**  
+> App web que lê PDFs de notas fiscais (NF-e/NFS-e/DANFE), extrai os campos automaticamente via IA (Google Gemini, com fallback em regex quando a API não está disponível), renomeia os arquivos e gera planilha organizada — tudo direto do navegador, sem instalação.  
+> **Stack:** Python • Streamlit • Google Gemini API • pdfplumber • openpyxl  
+> 🔒 Repositório privado (protegido por senha, em uso ativo)
 ---
 
 ## 📊 GitHub Stats
